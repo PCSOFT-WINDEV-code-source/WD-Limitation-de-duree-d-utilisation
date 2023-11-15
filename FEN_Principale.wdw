@@ -1,0 +1,509 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Principale
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Principale
+ identifier : 0x224ed4f1049143da
+ internal_properties : CAAAAAgAAADW6FYggRuHQAyNzF+zDiHoggFaMr1Bo0aOQZfrjaSpMcfdIRvsNWFadgDFq9fj09/5314sgmX7fFv/x9X6wvOIxL54EFVMVTuA73lXOJhGOr9xVCh/1teHZoOI5Nvp0btjU92uOZrxfgDllMeVCdqOlIbvfCvSPgjwnvQTlaeDOVczF/E8eANgZmKJnNmcIvkhuXzjPwizkH9pzeqCvtluNSgx4Jxv1DltrgLDzHJOwdL1vJZWiI+Yx9v0cYpuLHsZraxj7IirwOzGc2AXasvcBtd/gaQDatdsp4uQE4MRFxaAQlYR3vogJJuXEcrL4ROsV8j1u4gbjKJCJDG7IuC0lE1cZgH8Ai+frLaQ0OyKqC0kmdTjG825KQJO5ZE1ipiNZW0LUikzQZn8D5aeff9ih+qphvX1FlI6z0HPWyfLmYWzaTKgobF+tkqJR/rAZjWiX6tbbsXUJpGmjfbmCjG38/q4jO7TwKQOnQPckri2hz+J3iuIeNMXOEi8LA+dqAJ6bRyGh8Jagrtlzj4FcF4K5TTRSCACkIgEzPgDaMKCBkWosjzKl7VK5My7C1kLpN91s81TgAPYhGZhYHU7f2OtvYRJx+9ygyJospLUhJ5srfEjfZ2Twe//bb4kFMzN5XcxbtliG5lr5vjuDN1B/SkHEws5W7lJz3qaEtL9V2lBuUL3XykK+hqKdAmH61Plzf5WM5htw3Uxy/mK8dsP4ivaMJRjwM4WovJWV1+qAW8Nnc6Mo26i2NnWTd/KUTX0jpynhNTgmOsNd0sRnL6q6bm1hOI7ylfT6tD2uSvtz/Se1WuV7crVS4i0WU/MH0tlY129RQ==
+ properties :
+  x : 24
+  y : 31
+  width : 619
+  height : 251
+  widthClient : 617
+  heightClient : 197
+  widthMin : -4
+  heightMin : -3
+ controls :
+  -
+    name : LIBELLE_AVERTISSEMENT
+    identifier : 0x224ed4f1049843da
+    internal_properties : CAAAAAgAAACe/5Xh5cOfw26sEU6aPK5qt5D+hNXilwjlpRoMpA9yAyXQU06N5zebEvCLy5msUsLISZ95FMe99BB523r8TVzUFOnKV1sTguJVC/p0stmPs4Tt8PNxURfB4JtaZw+XJ7WejntXrQxcQk5YgnZws/jp/zVGJocnnFn5L8ohlgwxqYr/pghrg6l6c1jF8JPoXQXGLp26NMJBLBTmVJwo/YpwZNty7Fd2yc6BL6Jhi4EaZnKjuYASxK5CjjAC76hQzxCcvD9LbuegCxz87ZzBrdMZbRzILXwA/CrbtbmtHwdcRTx8U/10ezaJrHYPvqM8vNOfBYNZ6gjBcEvHtgJKEy5ECAzsGNofGppIgGvsx2v4iAk/R5VUQD8dekGipmXJFR884WRGm5FKbaznq44FSKV8TDowOJcwHMp1zHywZ5ysje+0BNhyRbgPbyDfsKOSd/oVpmEJIP58fLu63m8rorMXF3TIdDJDLlR75K7zVGt7wDIhWcMKloiOfKJLDFMtHWa88Sql0c5+k4OUGLcKMeyFLrCciYBzrLe7ShQYngRbZmlNoviDL3vK3bkAlxNAle3jIQtuMO7SRvUc/settMI7zGt5f85epLqe8Q53opCzSIrfGdCh4IxRT8UlpqI9d56A8Gzcu7LBCTGOG4bndW4lB1rgedShvQChKzUB1uGCQdoIbHEpoO5Q8Jqvx6a+1/gSeyy/Rg11DnPtIpCV/d7fYw4PTwLLA+olpqrv2F6BonmxfQ==
+    properties :
+     x : 213
+     y : 77
+     width : 209
+     height : 53
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMAGE1
+    identifier : 0x224ed4f1049943da
+    internal_properties : CAAAAAgAAAC5IlGVKdUK4M3/MMLdx4zAz5AmX5frYGWuy92sEWtYK1Gg/+oAP0ZtyAUOQ5Qo4DFzk/9NzuIolUmNWFABJr9R7jZry52rCbiiyaYKCezWTc+Hl6tJWHv92GVWzVQmhob4zNKHHb2mBj2/a3iSHXzfpv/TpqLLo5dG6fYrUvvstSBmpZWPlvOEpSkr0STnpmquDbhZ8FlVC88dD0tmYjbGCnraf/4ZizitTJkfayXNrIxmnmdHcsdWiYKjDeiS2KlzqP6DSXBeV0TOOYy3WE6Yf7+hPGUwzS2+GPPkX4ctZR69ewEebOsblQQ8sYDOL7ghbRA0mIdpMqu5h35GuC5Y8zHG4Syiu6XZElkv3EU8Drt8zG5pBgm0zas7HaL4ikKOJPyybhU4uao10RycoDSYO+ETUgbtCFB4LK9mt9Xvq16F69QRDbHfkdIDdmlLP+rte2SXxCuBO3WDe8kPLF/2xt4Hxg+JTO01COkVCNClocN7I+mvK5ErI8zr34YwI89UAFqHKzrXn/GLHoGJwpBcfEGINzY4jq68n0+Mp6HW6kZIM0gz6QjLFrqj12+MwSWiQOqdIxGmtkIDUfI1igirwxfufk85rHMddD/sxYoarL0=
+    properties :
+     x : 102
+     y : 107
+     width : 97
+     height : 14
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        type : 18
+        enabled : false
+  -
+    name : IMAGE2
+    identifier : 0x224ed4f1049a43da
+    internal_properties : CAAAAAgAAACGmNnBwV6ufKyFYtGgb1jNDj/7Q45qSfejOSsXUulgtcHdkXjWjp2mjkK4Q/CgubPvAKZaeL7sdtipQzEQjUPMlQW/svYP7r0h/VzyPKP92iD7C0XsuF9wj6n60PQ+wLu9i/FYKp1Tp1BbTjyj6DLCO9k6g0OLUTi2om7lFAuwYm4cfIQMO9Cvjcqf8qR8GKtPm+iG9Dh1cl+ev1qBExVf6m1tUV4gu331uHymXkL0gCBCAoPowTEzsiPFzUEu4wL5w4kMtQO/OsI2t4HAQwmERHcuYP8fC4rYsXh6FvSvjQGLPAxKZZ7Mx1dIlquuYoLwZ4eBoP+dQ8bE+giPhMCEjHWECKDlvGHfrpn3t6nIDWyFYvXmssS6C9GgE0fmv4cqoHiBiryiojoTa12vXGDgNyAvwQkH47ViQi4Ej5D4RlyAoAezX8r+nr6XMTr9FN7qN5o2C4Vmdr5mKDCBlyuA6GvYRITpG4OxooJxj+MplyYulurBBw80NpASBiJqyQwY719ip+JQjAIkDcZ10IXnlLhFMhmbcQ0ng+m648IGdK0aoRExeFNtq4VsXzS+hIW2fAOBRU6i/gJEr0m/LTMiqCpWG5wmDurBlZTuUMkHjY2V
+    properties :
+     x : 436
+     y : 107
+     width : 97
+     height : 14
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        type : 18
+        enabled : false
+  -
+    name : LIB_Message
+    identifier : 0x224ed4f1049b43da
+    internal_properties : CAAAAAgAAACs2Qg1dvA6H0Zm/2IoxsWKsXVD3OJ+vojCAyiktrQJrCipuPkhSl34S7rUZGK89yWcJpfLyOS3aesPSGyygzaJHc8jJ+2lDQxSkD3rn+Marmb1nkeWZ4+SKB/geH7hf1Ij2+5pTBlP4oyOZItb9T1YEgkeHsPUgkE0SEeftw16jDdS8hdOqK2GaGQH43ovlVfbzRjvCbgZ6Me3uYQNLI9Mdy19zHxozZJdhel9xwqGtm/MlAYVF5POjNuYcvcWxUfj+TTmnouri7AmpxBkMf0zKExi8+KiEQ/NWit5ADmcMGcGpFLxNJnS+EybEqTxmd5/796rmZ1CnyDc/mQuRkIcgswNB4CYmFUCpx/DrpnYuI+S5RfFbC/+8P01Rukrnadqz/5KB3/ttpa0SToWid+Y0+A2gTy1Yz6jY/Y5wp1uZe7SJQR9dWBcKFxbN6Ih+MF5pqWuhqexVL27eoXNwc1zFy5MqxWK4apgtWMbQ6jzPY1rUNyHmEi26Pr5QGWK40MoOIIqUfmPTmQ=
+    properties :
+     x : 48
+     y : 47
+     width : 520
+     height : 22
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x224ed4f1049c43da
+  internal_properties : CAAAAAgAAACPH9FKrBgAF1SRGPtu19v/9zfLLfgT8jUc5vZMVs0qDCqpKLltBala4OlL+X1ZphYzLcpOWWu7T1QL2JNSclHXhSCCPNeo/ZfgOCYNBxzYfVs1Iw6yRPqeGfVL4JIW4JneH1Aqm1NpllIfsXkLaGR8Ws1a6tQaAXHsJgGqYRbmpHEuh0ozYvbGMxuXEsQcJvBEegf9Zs0SrofNrQzQJmkzpyEnxN8FvdjNoH93s9Mf7vGcZhRIGNVnDggvtNFgeByqTh+LOdQDmZvqUVdTpHoJQ2RYIlFaZs3cEaxwvacy0JzVbiBv4kfdlw==
+  options :
+   -
+     name : Date_limite
+     identifier : 0x224ed4f1049d43da
+     internal_properties : CAAAAAgAAADgS9RYvYw+2j0KvFLfFBJHUuKzcs/2ftreESZqiOjto2RtcBhl2Ndc4pPcWbkzFt3yGeerC0smDgu9J344R+HoVZfNk+g4nhwwucmEeB6S/UaLr0+Kfpz25Ti0YWSGgqiKcFX5Sx1P++jcjPykPq1AcAcBbv1P2UYmJnq6NsSAURg474T03fYGt3JkLst7p2kUqa9WkBm8yhoWksQrSp9NtnjugiJvJGMTrvKFQzg2pkRWYSvm7z7Vetw7MOWO3FxORcxEhgt0/oU6ytC5pTB3SHjFFvJGgCpaUbcKSGKKoDr20unxAh9RXmG/svKeO8iY6xp+4pshz8DgGSp9URMYFzMcMxPMzVccCA==
+     options :
+      -
+        name : Délai_de_test_à_0
+        identifier : 0x224ed4f1049e43da
+        internal_properties : CAAAAAgAAABo9rJxPRzCYurZMQa+dsMHzzqpo+7Tth4AiR4/Bva2QyBTWVKPxFhre+z1tVmkC7uwrsGZ8SUfCXh7J1iJss1uPki7VnGOQ4ouM1AOKE4QIbISaqt/EC0AipMkArvMpyo1wNDEqMqUUtITGrMwGPfCshL+Dg+hlZi7Lnk6JhnTxWFT73e6sxXICx2iTSzrQF0+BnHN5v4dbI55C+rG0RSyfMA11uQW0KMcvwEOI98JBXiDDwIn7qFvbk7GuWX1YLdSESk2SAa0Ercjde6uL55WGhIFY8WZAA85uThdGWQebBipHPqu7h/Olc0o4uFui5IpwOxHwxtd6uWudEuwrjfaUTuCqCmm+kHHRd0=
+        code_elements :
+         type_code : 26
+         p_codes :
+          -
+            code : |1+
+             TesterLimitation(0,vrai)
+             
+            type : 32
+      -
+        name : Nouvel_utilisation_pour_n_jours
+        identifier : 0x224ed4f1049f43da
+        internal_properties : CAAAAAgAAADqBg6rq5WeCvwV/XxPG3z+/DBrxCN4DZ8THYs3o4DubhZyF1QR7PiSGiWkOgRve0ac0S8gxflpMq+cnFOCGPf5hgLhEl3UZzIDhD1yscj+Hfuot73mwa8//Iwje/MuKZszdMp+HByMMjuSQJTdxqRjSwi8ZFtdR6QDnB4tXLIzxKZUmslg46HeT+8kZ3FD2mZB8xuo0tMTo22nPB2LeWx5ItMdNYW+vlwI4WB4/C+fsMArzDLoflrE/jjM6yZbN2oAxfpgcCi9H6n9H0fGWAd1LTt8wr18n7e3KlqdRu2dN3q5PjniCetn082aHCFqmA418bhmiVFcVyH44WMUouvrQCYNxagSpEUe1keX8vX/yeYMlne7cKOi
+        code_elements :
+         type_code : 26
+         p_codes :
+          -
+            code : |1+
+             Nb est un entier
+             
+             Nb = ouvre(Fen_Limitation)
+             si Nb > 0 alors
+             	menuselectplus(5)
+             fin
+             TesterLimitation(Nb,vrai)
+             
+            type : 32
+      -
+        name : Passer_en_version_Commerciale
+        identifier : 0x224ed4f104a043da
+        internal_properties : CAAAAAgAAABbIG92yN5RgDhxdyLpw+LlnCG51wYVXUejHgglfuWso2mVTRaLMD32U8yoYjypDZZ6FyD1bBZWcP8eQWe8g3WyMKVxgz09CYEqp1Pk+tbtNxJlRM4dqXI1it4Ly4KS61twq884KDPVUxTs504ga1d4uegzpq4JkKs/GowzBBkpzr0ePTW/8Ka3BzeL7xoJeWXITcJpzDye4UU5XHFW+6v3htkDU1HnjJf/hOOgDuQcAnDpfKBLDjVafr1hddT1p3cvZA6g/zwRRuvRbVUpO86NZlyl2sp/XSCWopA7L0tcr76vbNMR1mvVTZP3JHh8KRUtCxukLWtpyaYWTpT8hrZcW9ZyrKVH7yW+xjfZqfs1MlByE4+ULw==
+        code_elements :
+         type_code : 26
+         p_codes :
+          -
+            code : |1+
+             si ouvre(FEN_Demande_CléActivation) alors
+             	//si bonne clé d'activation alors supprime la limitation
+             	TesterLimitation(-1,vrai)
+             fin
+             
+            type : 32
+      -
+        name : Quitter
+        identifier : 0x224ed4f104a143da
+        internal_properties : CAAAAAgAAAA313acYQ11Zi4EEXCLy7yhNfDO63UWDvahd6/8AMhGvblNfT5k1H4SbhDPhj62SACXIAaS2rbZWfzLciK87ws4GIDYoLACetznyg271L52UxpqqAaAH2MvD2KPHkTBk8LrP34gnNJxnzzu17qSiguHhoDHl64B61KVYi6kUgpv4Us++8EWci1PucXvOuCfGeFkcZHvqKHbvNQ+RxR0DXbwsLzWKqn2AGYE1gGD5gfviR3BPfGCLF3d5QJ7OFBM17NZshF4qciVFlsWrtfmpfTtmbSIC32jNWqnjAFzOrIKWEM8c8yXsYHSrqU+BX705iBtYmNFEJohZJRCI6hmFQ0cMQ==
+        code_elements :
+         type_code : 26
+         p_codes :
+          -
+            code : |1+
+             ferme
+             
+            type : 32
+     code_elements :
+      type_code : 26
+      p_codes :
+       -
+         code : |1-
+          
+         type : 32
+  code_elements :
+   type_code : 26
+   p_codes :
+    -
+      code : |1-
+       
+      type : 32
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABOMcZsFqyA1RclPS65NqcClQSh9vNCDyW0rRT0zH9bpXwVqdweAJT8AXliQjBZayEq72ErNZ0ZyfWDraB4DSiCD/87GYtSo4fETKScVmqwO9J7HnTgMNe8/HpDel0KpbY=
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADe30rA0rPE7P4cyxrW8Ye3P+QR8r7yU3T6JbZCGuS5gwuCdC8LjLZObSxPAWXfPppiIr0YG0+wsbpXx6hUVIGSAVVUhtcQg8sQjjQGDRXKSD8wNhe3kMh7bVjEPlf5+WGnoLoRMCvQ88dyK3y8DcAr/OgOCun740m5P+GuCxNp
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABbHQKZWZP/1t/sDyp8B2h5G22crCgNwxP3qrs4+FVPZwFkFmBrCNm9+MODxNDetW5/yrqw0DQ+8LK5/JFMZBIw2Q0wR2EAlPRYGjbgwtbsNnc1BC927wLz5MSRKGMVq1AxEfOt7ngKQjSGp/w=
+     code : |1+
+      GLOBAL
+      
+      	N est un entier=1 			//Numéro de l'image en cours dans champ Image3
+      	Temp1 est un entier = 300 	//Temps entre 2 "animations complètes" en centième de seconde
+      	Temp2 est un entier = 1000 	//Temps d'affichage de la bulle info en centième de seconde
+      
+      	cCodeVerif est une chaine = "MotcleVerif"	// Code de vérification de la validité de l'information de la base de registre
+      	
+      TesterLimitation()
+      
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+  procedures :
+   -
+     name : AfficherLibelléAvertissement
+     procedure_id : 1319225872418948058
+     type_code : 14
+     code : |1+
+      // Résumé : Affiche le libellé d'avertissement
+      // Syntaxe :
+      //AfficherLibelléAvertissement ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      
+      procedure AfficherLibelléAvertissement()
+      
+      selon N
+      	Cas 1
+      		fintimer(1)
+      		timer(AfficherLibelléAvertissement,10,1)
+      		
+      	Cas 5 
+      		GRP_AVERTISSEMENT..etat = actif
+      		GRP_AVERTISSEMENT..Visible = Vrai
+      		fintimer(1)
+      		timer(AfficherLibelléAvertissement,Temp2,1)
+      		
+      	Cas 6
+      		GRP_AVERTISSEMENT..Visible = Faux
+      		fintimer(1)
+      		timer(AfficherLibelléAvertissement,10,1)
+      		
+      	Autre cas
+      fin
+      
+      N++
+      
+      Si N = 8 alors 
+      	N = 1
+      	fintimer(1)
+      	timer(AfficherLibelléAvertissement,Temp1,1)	
+      fin
+      
+     type : 458752
+   -
+     name : LireBaseRegistre
+     procedure_id : 1319225872419013594
+     type_code : 14
+     code : |1+
+      fonction LireBaseRegistre(sClé)
+      
+      sRésultatLecture est une chaine
+      bOk est un booleen
+      
+      sRésultatLecture = RegistreLit(CHEMIN_BASE_REGISTRE, sClé, bOk)
+      
+      si bOk alors
+      	renvoyer sRésultatLecture
+      sinon
+      	Renvoyer ""
+      fin
+      
+     type : 458752
+   -
+     name : LimitationDansLeTemps
+     procedure_id : 1319225872419079130
+     type_code : 14
+     code : |1+
+      // Résumé : Renvoie le temps restant avant la date limite d'utilisation
+      // Syntaxe :
+      //[ <Résultat> = ] LimitationDansLeTemps ( [<NbJourLimit> [, <ChangeDate>]])
+      //
+      // Paramètres :
+      //	NbJourLimit (valeur par défaut=30) : Nombre de jours restant avant la date de la limitation
+      //	ChangeDate (valeur par défaut=0) : Si Vrai alors change la date limite d'utilisation à NbJourLimit
+      // Valeur de retour :
+      // 	entier : Temps restant avant la date limite d'utilisation
+      
+      fonction LimitationDansLeTemps(NbJourLimit=30,ChangeDate=Faux)
+      
+      LimitOk est un booleen = vrai 		//à Faux si et seulement si la date limite est dépassée
+      nTempsRestant est un entier   		//Pour calcul du temps restant
+      JourDate est un entier   			//Pour calcul du temps restant (date de fin d'utilisation)
+      
+      sInfo_BR_Lue est une chaine 		//Info lue dans la base de registre pour la durée de la période d'évaluation
+      sINFO_BR_àEcrire est une chaine 	//Info à écrire dans la base de registre pour la durée de la période d'évaluation
+      
+      sVérification est une chaine		//Code de vérification de la durée
+      
+      //Lecture dans la base de registre
+      sInfo_BR_Lue = LireBaseRegistre("ID1")
+      
+      Si sInfo_BR_Lue[[a 11]] <> "ParameterID" ou ChangeDate alors 
+      	
+      	//Première utilisation, ou changement de la date limite
+      	Si NbJourLimit = -1 alors //Suppression de la limitation 
+      		JourDate = NbJourLimit
+      	sinon 
+      		//MAJ de l'entier correspondant à la date de fin d'utilisation
+      		JourDate = DateVersEntier(datesys()) + NbJourLimit
+      	fin
+      	
+      	sINFO_BR_àEcrire = "ParameterID : " + JourDate
+      	
+      	si ModifierBaseRegistre("ID1",sINFO_BR_àEcrire) = Faux ou NbJourLimit = 0 alors
+      		LimitOk = Faux
+      	sinon
+      		// Code de contrôle de la date
+      		ModifierBaseRegistre("ID2",Crypte(NumeriqueVersChaine(JourDate),cCodeVerif,crypteSécurisé,Vrai))
+      		nTempsRestant = NbJourLimit
+      	fin
+      	
+      sinon
+      	
+      	//Lecture du temps restant
+      	nTempsRestant = Partieentiere(val(sansespace(sInfo_BR_Lue[[Position(sInfo_BR_Lue,":",1)+1 a]])))
+      	
+      	//Lecture du code de contrôle de la date
+      	sVérification = LireBaseRegistre("ID2")	
+      	
+      	//Vérification de ce qui a été lu dans la base de registre
+      	si Val(DéCrypte(sVérification, cCodeVerif, CrypteSécurisé, Vrai)) <> nTempsRestant alors
+      		
+      		Erreur(<§$0001§>)	
+      		// On bloque l'application
+      		RENVOYER 0	
+      		
+      	FIN
+      	
+      	Si nTempsRestant <> -1 alors//Limitation en cours
+      		
+      		nTempsRestant = nTempsRestant - DateVersEntier(datesys())
+      		
+      		si nTempsRestant <= 0  alors 
+      			
+      			LimitOk = faux
+      			
+      			//Plus utilisable à partir de là
+      			sINFO_BR_àEcrire = "ParameterID : "+0
+      			ModifierBaseRegistre("ID1",sINFO_BR_àEcrire)
+      			
+      		fin
+      		
+      	sinon //Limitation supprimée
+      		
+      		LimitOk = Vrai
+      		
+      	fin
+      	
+      fin
+      
+      si LimitOk alors
+      	renvoyer nTempsRestant
+      sinon
+      	renvoyer 0
+      fin
+      
+     type : 458752
+   -
+     name : ModifierBaseRegistre
+     procedure_id : 1319225872419144666
+     type_code : 14
+     code : |1+
+      procedure ModifierBaseRegistre(Clé, Valeur)
+      
+      RegistreEcrit(CHEMIN_BASE_REGISTRE, Clé, Valeur)
+      
+      SI ErreurDétectée alors
+      	
+      	RegistreCréeClé(CHEMIN_BASE_REGISTRE) 	
+      	renvoyer RegistreEcrit(CHEMIN_BASE_REGISTRE, Clé, Valeur) 
+      	
+      sinon
+      	
+      	renvoyer vrai
+      	
+      fin
+      
+     type : 458752
+   -
+     name : TesterLimitation
+     internal_properties : CAAAAAgAAAAaTS46/nxyAK3QVckXzZ2bOauuYYzgQr+bEErwKiZmRkvETpnbh6Fe2+vh410IXHIcSovXsH9IL5A7bioOr8O1spKcMjrfdHd/7yUAEopeyhnTzu5X6/FJgVuP8DtJY8YZ6rEKMOqURj6TO1kKbV9mzKMhY0DTNcH2DhRFwgtPsQwK
+     procedure_id : 1319225872419210202
+     type_code : 14
+     code : |1+
+      PROCEDURE TesterLimitation(Periode=30,Maj=Faux)
+      
+      nTemps est un entier 
+      
+      //Récupère le temps restant avant la date limite d'utilisation
+      nTemps = LimitationDansLeTemps(Periode,Maj)
+      
+      si nTemps <> -1 alors 
+      	
+      	si nTemps > 0 alors
+      		
+      		LIB_Message = gstylo(inoir) + chaineconstruit(<§$0002§>, gstylo(irougeclair) + NumeriqueVersChaine(nTemps) + gstylo(inoir))
+      		si nTemps < 15 alors
+      			
+      			// On avertit l'utilisateur sur le nombre de jours restant
+      			info(<§$0003§>,ChaîneConstruit(<§$0004§>, nTemps), <§$0000§>)
+      		
+      			// Affichage du libellé d'avertissement >> le temps restant est court !! 
+      			AfficherLibelléAvertissement()
+      			
+      		sinon
+      			
+      			// La limite est encore loin, on ne met pas de message
+      			fintimer(1)
+      			GRP_AVERTISSEMENT..Visible = Faux			
+      			N=1
+      			
+      		fin
+      		
+      	sinon
+      		
+      		// La période d'utilisation est terminée
+      		LIB_Message = <§$0005§>
+      		
+      		// On demande la clé d'activation permettant de débloquer l'application
+      		si ouvre(FEN_Demande_CléActivation) = Faux alors
+      			
+      			//Clé d'activation incorrecte, fin du programme
+      			finprogramme(<§$0006§>,<§$0000§>,Faux)
+      		
+      		sinon
+      			
+      			// Si la clé d'activation est correcte, la version n'est plus limitée
+      			LIB_Message = <§$0007§>
+      			
+      			TesterLimitation(-1,vrai)
+      			
+      			// On masque les "rappels de limitation"
+      			fintimer(1)
+      			GRP_AVERTISSEMENT..Visible=Faux
+      			menuinvisible(5)
+      			
+      		fin
+      		
+      	fin
+      	
+      sinon //la limitation a été supprimée, la clé d'activation a été renseignée
+      	
+      	// On masque les "rappels de limitation", l'application est en version illimitée
+      	fintimer(1)
+      	
+      	LIB_Message = <§$0008§>
+      	
+      	GRP_AVERTISSEMENT..Visible = Faux
+      	menuinvisible(5)
+      	
+      fin
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : Fenetre_Principale
+resources :
+ string_res :
+  identifier : 0x3b2f6d4e2bf5ba38
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : "Pour obtenir la version commerciale, appelez le 04.67.xx.xx.xx"
+     index : 0
+   -
+     text :
+      fr-FR : "Tentative de fraude détectée, verrouillage de l'application"
+     index : 1
+   -
+     text :
+      fr-FR : "Version limitée, il ne vous reste plus que %1 jour(s) d'utilisation."
+     index : 2
+   -
+     text :
+      fr-FR : Version d'évaluation
+     index : 3
+   -
+     text :
+      fr-FR : "Attention, nombre de jours d'utilisation restant  : %1"
+     index : 4
+   -
+     text :
+      fr-FR : "Version limitée, période d'utilisation terminée"
+     index : 5
+   -
+     text :
+      fr-FR : La clé d'activation saisie est invalide.
+     index : 6
+   -
+     text :
+      fr-FR : "Version commerciale, période d'utilisation illimitée."
+     index : 7
+   -
+     text :
+      fr-FR : "Version commerciale, période d'utilisation illimitée."
+     index : 8
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

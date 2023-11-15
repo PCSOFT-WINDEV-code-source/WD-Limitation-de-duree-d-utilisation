@@ -1,0 +1,123 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Limitation
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Limitation
+ identifier : 0x224ed50d04b3b014
+ internal_properties : CAAAAAgAAAACcWTHQzYBDnOtPiKrXmBmR+ctd+c4NtD7i0EuGcgssDS/BIIvuOyw5qtnALUENpxXb3X6mHHH2+Iv4C4rmjPGVkUf7IyvsEziJHlwIPAbbHrZEbJgf9yaiTF+Sa80JwCKSCOGMn6AVfAtQeBUV8Aa+hTjDrwsLi9oJ2ClMTsycUUSZW+vhUyiJ9dmUAQ/O2ajvyTfAT9bnUsBlRlUDsK1kfwERq4mF1Q3t0F1QIMX504/NNM1/KUna8n3XSBpc78UNAy3pAQYmu7d7C3rNOYJIKNwLyKbrGzUgkDxfXdRpFSo4vI+bHEqi0POWkWVJSq+J/AabCfWDCIHMc8LeCMzXJSLLqhattAnyJlnu6Ex/dumx6TJbBeJFrlDRC1PecKNtMbKzaSHitrpUhpyk5jvnilMle66IdNOfuqT9dWPbDfb6/kEUmlxFZb8iLKzSp6t//pcDYuZHyM6KCbCHPnuy6mi3Jc/2tug+yK9TaGBmmdyZMiv7xzSffRD9lJDA9Kc2zN+qcaplwoNCY47eIRDCotPTPkVG1yo0X3ZrMBHdJBb6H+KO36c3fg3GoCAUxnPin42pY7QB6IiWU3z0eotFBj0XY+w51yuaq3To6MJPRgLfy9lu2p2q8reNhSO6L8yLNfIRY074Kno6pSiVY/x3FPuMmNWnLgIi7rP8lArNC6a0k5/XoFar8/dsa8oCwcTCFR5IXAXbrw7hxkrzNZrTcgd3mdjrU66vkpCtC4ZjRVmim9I1rbiGM8I2EMxbPe86pWxb05BEjsyAxMZdvUG
+ properties :
+  x : 120
+  y : 50
+  width : 439
+  height : 106
+  widthClient : 437
+  heightClient : 74
+  widthMin : -4
+  heightMin : 0
+ controls :
+  -
+    name : SAI_NbreJoursActivation
+    identifier : 0x224ed50d04b4b014
+    internal_properties : CAAAAAgAAABFbtovEhWkKOF8eSMaPthCEuPFwF7hEsj1eut97C+8kEu1PkkTkwi5rI8cRgEfMj9mcppbO/CV71QEHgMzzpJru1UOHe+QLTq/5CJf+Zsm744+fIivYKAbHV/WJuYTYJ2fjUNQd7IiP8hm3g27MwGRE2ONJbcll8qQ8TLhFu2rYRslJylxhMpczEWcJuke2nnM5k+VP3Kv6/07GFsfz51UXoT0zkQxvkjCKh0KZblMiKNzoH1pLyZ+A7dQYjYCnj7/xx9i6njF29+jt9ATE+bbiXLYsnL4jxRNIaZeKceyi3i1zYMn97FzmkM7bfWMSblchcqBbxQ0veTQq57/0uI+G5M0BMxNJSxv0FIAyeoBzLRU8fkzIUaB/GXnu12upLIKukQdQa6bYRr0PZUNXxOs9hl3ZhsO3FnmQmmGRjB9/p0/ACd09lURF/dE0IEWRKtpy9/Z4VFXX2KjBF8B0XERzRDo4KuHukAnFPgQ7XXw4GxhX6Qa94pvAQD+B+1BjvMqGbu9AWtMmd1vuh6EhZZ1HZ3Y1UWPWF6UmdpaWXzpnMSpVR3p4tbEycK46p+sdIVTL+EKWBSUphk2CLCZLb/3wEIx8eRSeiRMvidq8jNjWZ2ZV4QP/r1Im7ye7jzB1A5mLOcXw89p8w/gjo9o+XlzGYWfeyu86DBVtvoWjlWY0iUIpwWMxxTDMAzilvNJ0f/vs+O79gBSsLb290NhMaVNL14MC+KdJgOWgmBz4WSa6QcgMjbYAIidDKfdve8BSwyyQ9EXZE0xMvFGPMtZD38FNgqeeJKw5xRm75C9QldbuHmMC6ewFiOA1OTgwJcHgf3rOVEA1y+XljABBFdfcNRLgYIXO7nnFOD7jJv1kt5AmISJ/LK9pwNRHStet14ZLAofRFsjKi+TpK2u1KePPr8vdt+fb0BWytziNV4Sr7+umZiyteSEZynoXVkq4yn/WHQLksa00GDZ/5hjAlirYdaNYgC+hI5+zgTYKajuv8fcDsaNDqYwU2rabIcGWW7PnUs8owgATNStAu6BzIXY3OeOXTit/DE6CBgt3k6/snfXtSHkvzJO8mMFELbT0Xg5gj7as4OgGYhRedhPPj9RKSqYT5pYSn6/nbDzEzU3PdfoTDPsITyWKwAGFuq2UhJeAZcBK0nnQUFo00Qy/nbhUuR2WsWbxEmqoO7RdEjl7Ua8CYqB4WrC0IUEpsU7VlBvoVf2jboeh3kRldY1naMePU/zdPb/xOV+HvEyOk0mKI3nk5todQwcmEyRRBCrT2/2/FAPvZ+saQviMMpEDad61+rTb5HvenaUQMXjvT6BA9gPT7JeOAMVw/pEuXu8sybnkuEUGwtUmSPbM00Y/5LjgR/CFySC8TRJKsdK5JZlRXDwu9f64jSftUQxnsZILTpW/lDB
+    properties :
+     x : 25
+     y : 27
+     width : 303
+     height : 21
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1+
+         SAI_NbreJoursActivation = 5
+         
+        type : 14
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_OK
+    identifier : 0x224ed50d04b5b014
+    internal_properties : CAAAAAgAAAA4AhgMK/ocEOzBwex9EXIeR/Rp4tmSiQAutz0H1F8wbG7h3zNGdHeHg6L2Q3jiIoXXDg1VCHPcE2Zxdd1Um9EtCcniDR/gjfPgw8BLbE18ZGtVhmmBGrQyQVy61YiMqCUcUWXGs4wxlQt/j8j4CK71SuGUh0DUKG8Y1Pfqxdlsuh4kruH3cASi6pIXlfwGIzisZpxSvRbImdT+caUpPEnWtdb1w85JpQG528epfzWFWKMFeNWMmn35TnkEOJhod/5oAh/pSCCOEj+L7VaPX/5BMoA8hthfBIEVJCzrLwhO+G5Se1JwO80TIo1I7dr5Pb9r5w1UutGwsj3SePjQ36XPMc4HLte4/8CBe5fsJsoTdyQAeVKKJsbeWHGqrnlapmR2rSDkS51z1qroeJq4/aGc9zvkrCMjRFcM9vW0HM23E5onETPAypB23uys9U6Cj3b8plWCggVsJBtUELe9Ic+gpw4b7kxvf+8ynThvYC3fPd89HS7HgQvpUIxAWLWbdP/ZMBuzGCXCaaysowWr0YhgESOvERY+liJtJZ1TYQtbgmLAInmy3/aFXpioLQ+QVVVWgLpx4YJ18ZCR1LoPCjUgaL3dkT5VayuqvZR3ZU/XTJXONMokXyVFZAzPBhq3s6LSQ+nGDckXH3pQKELvGjpr3z/cuKfJZci31ZtbuAE/u3mNrOynMUJtFdAzVVNvMmbTpW2yR3KBpYRc5pBPWnvE4Dnc+YTH0HcKlaETQ0f9y1vUUdQGjJjknylWtUz5YITjjjsXKKkQ4ydnR6AmBUCYVjuGUvJB9MMkPmOv601nBZ71a8byiiY03c5fuuk2KQPlApm3pk2PJcPSxR4KdXm5xWZfwFgXyGY3S1Mx4g2sI/rKUgFXZpYkGcGN+YnLJPiKNzs=
+    properties :
+     x : 331
+     y : 25
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         ferme
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x22affd5e553f2ae7
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAADIu1C+wHZOb73PF4jbVGG8Z77zQGXKt70YJYgMaM92LqehSaxsntLsN1scWBYTaxfhNspKhFpCirAGkqtBJONEMjHpFzm4BQVKwi4KxBwGjYS1wNKGSu1SRjSNMAt8Kzg=
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADoX9MLfGfWKwayS7h3VU0IxYS1fW9zlSB2kZU1q9ocHwiflE/MXMw7jrvAUMb9rvXxetcSO4tMZt/hlnkyfCGjngzjkA==
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      renvoyer SAI_NbreJoursActivation
+      
+     type : 2
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenLimitation
+resources :
+ string_res :
+  identifier : 0x10fae23b0273f1a4
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

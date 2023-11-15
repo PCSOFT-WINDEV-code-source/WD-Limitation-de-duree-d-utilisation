@@ -1,0 +1,313 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Demande_CléActivation
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Demande_CléActivation
+ identifier : 0x224ed0ec01328fa8
+ internal_properties : CAAAAAgAAACiLevCoc2l2Qz8FCOjwqBjH7ZBfWST3uMqdvON9eZ44W4wvIjEJ/xQb/DhTAI5K1spoWix+JATDdJdGnaZ9dILszv3uXrsjqeRhs7pNC3FFwphJS45haucSKvBA/QZIVEGC0zk9oxJ0HpoCf1o+jRuzQ+OfJpao+DupZ2TEyaPO8ESosQnp0Iu8S0qz77AwbL0AG7nJPVGfpgS1/HO5mtLF4pDoqAipKlBKdApnrOMiTWhdBcQ/paRYctI0RosBen7gk+b5USm+nsJlaQmM2Ra5H6PzxsRDxOa4JMuSNS3qdgipJTMgFDoumnHoZrCCiciMjUJQUSeM+Yr/2iPiFUKMzehZ6+szJxL1bnCx1Z2boki/VPJ7aGnqP8F0AktbznPIHS0aCDxFjFXwD+Nkx4DH7UZ0vypN/vZVXjACp/P0GSTELLS7w+hliNIH/tlnhKqbyU7f3oNi+zn/kOXEHsc0LlHObko5Od13Axe/rl32JiwFQV91ATO6EP/fe+PNTaJ3RyD2yGTFxKJHmzzB3Xm4p6Ys5vAYxatvuc1E57DUIVtP4/FyfN62cjCuyTrsLB7tMXXXUXDO+EwOQCznBbgkTTSIZ3QdoHQFQJpwwpfv2O5zi/zSu6Twbf0+0YzEDnpbAXDGe4CrNUd8TJ4MVylI5ym3MqOT9FMczX398Q16Zf/xa9o041cHHwc6doJxiSM/AMB9q05Rl3Rau15Xh5w7DYSnapfrXdp1k/jg7n3+GZYOZ8cbA4rayChRzAHrH4I08qY1NHE8tsdX4yEChubMRX5Of0=
+ properties :
+  x : 120
+  y : 50
+  width : 590
+  height : 387
+  widthClient : 588
+  heightClient : 355
+  widthMin : -4
+  heightMin : 0
+ controls :
+  -
+    name : SAI_CléActivation
+    identifier : 0x224ed0ec01338fc7
+    internal_properties : CAAAAAgAAACXedQEJjjF+3tvCQjI3GWAAKI+C/w2B2fZe13uPTVewjL6imSdhIsOEVIi6RgLJEkCUFsXUdKq88OKNDZZh5XtTfxWUylOd6N1O0WTzXKDIMwvNPHixRXjGbKiwdbloqMQfuJfNQoStXu+Pn6JHsoilCEDg+k4XjX8a0I0q3UU06aj3LArWCZzVyj54p4FkWoJ4Avp+FjL0ARWlbwabNXZxQkwOa8nBr5mK54i2j8HxvqJCs+Xg/uURlqsFlaCL5rTwfVSDVffamD48w0maFlCXe+II887gdeWz2JPY/ntDgCoh9Mb6lusHIMcxBGT/tv2ktQBeYlm9EfiImnJP1k9WaVSims1pLfxkGeByn0tc6CwslxQ+Tqdjaft35Xef+F8UDUnb2ZpKqOmHPtBZiQ7RJgGMdI3Ix4lVwrwCCHruIADvLHtLE5V3qlGzJIMevEA43OVRkWm4Qp3trrrjh0bVYO75eHY3Q9ODIT+/CMpuJXnOc6UeItjp2p4R3MGHjqZs1wdw7PHPYXuoRfs4Wz4YxGfUsYahP37cZSNCdP2PYANPeoKZjuCjKmuZmMhDVmo6vcFL1MBbW68yMWKq+QdIvPQPtsOKXCZ2aep9ewFMBzSxdRfPXVrhY15ZktrYcKWgAzJwdXqpvAnjww6xXNGepVOCItu6CQBisb1LTP++lqTDCMVH4I8uM2kDKWviZhPtrGP+6DFUNYA1TGiVcWZd5YWHwFI8gIsZs2YXoJpKp7AI60ZTODEedVvT2qvZrohtdPm6X4zxbM9LCAYZafEnVd+TyjFFedgmf6lLfBVBDa5h4XyAPhDKEHVWoFuS9b4M5N+a4aw5WdieeefxWOwoY72cRfBgE0Y8it5xeARRGp7SlfLZsevgGTKfpVwWnUvwqKszG3xcOgffvPulT0Orcn9cJGQ/CSk/zvJ7/NuyqDszI+fHWi3MH3FntqB0acPkaSvH4eSx5GRGNPuOwJq/ZUxnB5EQgo5U/seL1DVFx8sKOXFBo5hCjW5nLBd8lOwSE8XSM7YEMh+52S0tZHGrI4KBd+TmwUl5ha+QaP4EX5REN00aAnTZWygK4Wa5wb/7ZxMxx3/cLNw1WF1Wjo2Od/gC1/BlDTnyoYU+ShVk7/9X3258021nhpckNxTEDEp4fspxBnS/SZhtu2zh2cpq/U8M5hD3HhGiA8AJMB8aB1C7hGiUxvvc9thYeyRx/bEhvc1JW7fAYmKBO2tADFelpztkSJ8Sj3YT8t1Aj1ITVtJ25mwYqQoYw5+x2ISBC0X7ulVW41g/81kL8j/SwiXpf/6GHkk5tOlBNcBrMdzNlUa/nJT6lMVNcw0B8mXADdEKygFnZtionIRUSA/lIJ5ZcK0VIRizH8BxZheuMmr9jTrOUl+H26P
+    properties :
+     x : 63
+     y : 271
+     width : 376
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : BTN_OK
+    identifier : 0x224ed0ec01348fc7
+    internal_properties : CAAAAAgAAABnXHv8u0p2HUGzFfKmn4XqY2SmcLyAX1/Vl5K6A1ObLPLRhLtj0A8OekId0Mf0ibHHhKwDg0vgWpejwGoJXb6hY1ykCJLcteRjf4fux80Xye096Y129sS+Q/o9vaE0dQ3snz9q24DTLPIOaXo5GkDDocmZbQoEJHr70JIlk9WHR07u/0fMBMP6esnj+xOgIMees8s0u2z/t2hF2floQLGNc3U5lXz94FUGskqUQ63Jtz0t2XvqKPNRfLCLvEq0cH1LAKY6tuFWC2/K+bg6rHE11qYY8iKD6xbbFAt+T3+E7EhD/XXMeysv7OJuMwlPnhD3Ozrk/2Z2mKXy8B1abVxtu44/34C1dHu9k/6/Q+TYtkAOiP6LGwTI7vRUTaUKB0T63MMIADzYBPs/yHEX4lCgZb48g7joXHPnKbE6Kmk4a+TuqBqmSH3oJ9hlXnUxFgH2j4Hu3tgDIC55SX4YjKcijyyV5o7LkKlJ6fvUGN3j2zaviwH8sUWEbh/ASXqLSZhBDil7n2HFnAbARSbof4iE4vxwKx+lBevWvcoAsBuAcx49mTd1ec64dp2DQ5lLL98T/5Vbhvg1/uhUG84P83m6cTxs5+ntsbwmVh/LBYSpVKn8bXXUuLrRSwqsKDjIo6JLYsiRpZ1ZD7Ogqr5UU2jahXrnAtyLoADavYN/7vA6K1/b87iTuBaH1nb30U0M18MWeoHXI5/uWDJAo7FwZn0ZzIhK7sSUXl4jwkrC0BC3qFg6j8uqIOTJqzCVgWm6T20ORSP8z625oYDfX86XCJqa+N7q+D8/bVVDT2PQChrYnLbSr9ik9hsMuJCn5ZA0R9OE03fjDmTC1JFEfGzlzn95KHzIIVaKIEwOEs6dmOju/cUeakSMz2T533mHKYEcJgEfzSSPaIhu7w==
+    properties :
+     x : 445
+     y : 271
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         // La concordance entre le numéro de série (ou clé initiale) et la clé d'activation donnée par le fournisseur de l'application est effectuée via la fonction CléCompareClé.
+         // Un couple "clé initiale / clé d'activation" précis est valide uniquement sur un poste donné.
+         
+         // Si les deux clés correspondent
+         SI CléCompareClé(SAI_NuméroSérie,SAI_CléActivation) ALORS
+         	Info("Merci d'avoir enregistré votre produit")
+         	MaFenêtre..ValeurRenvoyée = vrai
+         SINON // Si les deux clés ne correspondent pas (l'utilisateur tente de saisir une mauvaise clé d'activation par exemple)
+         	Erreur("La clé d'activation saisie est incorrecte.")
+         FIN
+         
+         ferme()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_Explication
+    identifier : 0x224ed0ec01358fc7
+    internal_properties : CAAAAAgAAAC9hvLqPqrQYOPkriSvFRmkbEruoTFms3m4f2CazxM4iGPsPoE+OvnU37xqyztmh6EUNvej9ocNCTR1InOk3Y9Pg1952Z1nw74WmiqgrdUHYWeasxxHU4DrGqxhd5zQvtv+00AO5LC76l1EfOqatyShxX2dghkFhvZ16s3CNDiFmR6WwLYWImynkV3idgmFDoI7fBVgl8OX+fdByDBDdBzCmM0ldjILH0/dpNDtBQixOaHJpZZ2TASJPQqaC1vumyQWXsYROmEOh+1zoB/MF5AA1om9mYn4OyYd/HlP7UIz7NNBBKfQVnKAdjDMznaM6MJj0xVxCHc4QbTDcD+yhWOhDhjSbe4euM3PT7vDHnSPJGjA7hl0/aDbuXFEi2Rcsa/9P29CSEQVGeDPdS3oYClRkedDwba20yGXboiSbLRR+H7hgPX+NSMxWcH7S+7xM/GH7/Y8Xe8GSXsDxsAPI4021pM1Y9D9RVsO3y/Js8X+nmICqknsQSfNXIjzNcf8AXen29oz5T7KBcV2RIQvbxtnNU4X9Hj4eR6cELga3ToGWsrLu8mhwpe+D9OmnhuhyfqbrHBQs1z+6sIhaoFrvZZompbqeZGXYvV03kNuJst8jh5KGbxUaCj7zUBkqF4/Sc8wRzz27IyiV9xidl/Hqgq6BT3Sl2Hnl29jCoHLBUtAIA1As7ACi1RiEQdf5g5S9kweOzGQqgpy4KBtsIhtTX6Zqqo=
+    properties :
+     x : 63
+     y : 110
+     width : 462
+     height : 37
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : SAI_NuméroSérie
+    identifier : 0x224ed0ec01368fc7
+    internal_properties : CAAAAAgAAADGkVk0G80e9gzYPC+vXZT7o1ENCt2Q58js7s+nZUxfQ+rn+SvsU3aVPai8+eTO6VwnEhVvwJPtZhA8+nQ3szoCBt+4gEj25sxGT7BEsmJIYMQ2e58tBhKVN5Z7GbcSmS4M1d5/U12w5DGWkRu2BEAXjENxkngxwhEF0dewjDjKg1JHh5kv3mXrlg3/jI8FmNH7AQAdfegR7OqGdjZbDsJ/xMMFDwcf0qA8ucIm/mOt4m65GL27L4s6QESaIIczue4tj01ak0VFPkDQGY+AUoU443EgiwWl+3PCK8xRLUtxnFKO3wtVkJlosHeqAr8p6nl86LB1C2fEzLEgnJuTQdULU28SwsUrCpudhMX3qGsF5eq+9pAWK+SliYPTPWOkO9ee2o1vLaDTcvP2+gFP5Iw1Ijqm2VRdWXKF5yTm5q+vdqaBiPVHgrxlmj3YarBaclvGkSc5UBvcBdofoJTlmOWNm6VvwQea/2s6KKro5t2JmiO5ceZCap0fY96mFUE0UiBPEVTVCS0pVXWmJ4E2c6x61cP3+qgoIhWPxca3y53ux8o3GV40rGGC0KXcZGH/OWfCJDcllWV7vTJo0s9Mvbgz9C0YHnVEFxShaSWvI6qxbgJ40VBZQ0MjMaH3lPm5/VBwNuCNkxOoXjwLJXqwu1M4vEN2wL0UnjDFJmQfn7XOzLxJ9Iu7EWTs+E16wgYOKjmkO8T8hnW8Z5/JJOKDcEbCPNtxhKjBzU2581AVI9WS69+JYs7gTcf75sJa5JdK5+POGr67nOOeDNAadyU1gKQ5VkBdYJNCkG75kuV+Bi9uJcfSzu4BERe+Nd4Ab97pbJ/h5EIvMo/DlLQ/RCQsaGBNCn9V8qo+q6SBm1oSbgNuCZdw1czGG26y5Rl9yzrDcwa8j3VJv5ocCxXMqcjr3Oq73roMAYzVK9sVkELC4PpLHzV5F8TSchMeaSZ071tUJgToKruYpkBRohKCd8TfbtNrOoo8gSUFQcmmUI77jAuKXJCdD75kVy0sx3J02bUQq+wJYc5Im2MzK50DcpmhgDpH1a+x/loQFtwi4ynjbtZbgs8q344bUah+li3fNG6hhINQtsudeopuz7DtQP6K5bezethv7H6SczucD2lxbtemXCSaar78YMxY5UPwXz3sl7RYkCh8dahjeumkd+xisLacwszpphXZvov3OjnP6yDi+kXqDFKx9VheVwTSYVSFuOSOldJli2YWTzY8BNUi/62G4xz1cQyFNuwdj3x8SUSWKBRlnUYqjSGwvZb4yzWBcGS1QPlj8m5T+QpZA86L09H0lG60pEczhfwuDctGQkCzsJWyhsr0olgEffrR6aah2YsayTh1p4nECbVUKApJY92SiOzZb3930xjChsVpExrYRcHAciAggR8+
+    properties :
+     x : 63
+     y : 61
+     width : 376
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         // Un numéro de série est généré sur le poste client.
+         // Ce numéro de série (ou clé initiale) sera utilisé pour générer une clé d'activation unique par le fournisseur de l'application
+         // Ce numéro de série doit être généré à partir d'un identifiant unique à chaque client.
+         moimeme = CléGénèreCléInitiale(SAI_IdentifiantClient)
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : LIB_TITRE
+    identifier : 0x224ed0ec01388fc7
+    internal_properties : CAAAAAgAAAA3tqXyEBVlvYueFoSFQYHYZxtYHlzZ3/RirOu9XZaINRBjL3go7xXDt51ZZyyvC4mK7KLYf4DVuHce05HHAIw/YjJsF/tVFWQkhoGJFWfD6qzdGTf9iRN6NsMKPdz4UGicgBZv+7bTBET4i/RrEuU2G0qROTHE45UWcAlNv+XbxWfQ0uM4l8eq+rywjON/U7XMRox5RH8dTX/S9lVwDtyOcsD8Yc0fK1cNlvoXS3DmAacrNbmH5gMHQrtH7KRocBQ4QCcVtR1RUIOeRYRS8mczrOful2sd6KfGds6A2qAXV5990p7xTWDrWKDe9ZhFzvBRffVqI1b5bIgrfcqv2KpTH2UMaqTR3AwpElB7iQ4sjulicgJv+AHVelG9dR+MlTjsqS3ms2HXgHSfaX8Se/DAK7ZvfPscQTopJ+aUutgni+gIfiPWF8E7KxL5iteoaBv0o/jaf6DjsvjznyU4jU8dTpDwkNtO5yXt8oSSHhUU1NAeeut/8P2Q3f5ZYxUw1YOGScfCfgZL0IcbiGBeIpjK5lQFS8bR
+    properties :
+     x : 6
+     y : 6
+     width : 515
+     height : 27
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : SAI_IdentifiantClient
+    identifier : 0x224ed1420158ddc8
+    internal_properties : CAAAAAgAAADs0E71qqL/I/SCjjRG5Y+8IvbRC6ciqp6f/d5eWkcrK3WtQVSgypiwbjlW6loiRKupE5PX5eO3EtCww6Tm1y3brmEjEB8Zrcjvv00dloFP+BbObFT9dNlFgE1QBtt4OO5qcLhwk27eT5Md74gW1NqZmBdL4w9UmlnhZaOwsxC5f7dPDkv0czz5QlTvhW5V0jOeyOYa2Y1Fa4mnRXKOmGD/2NvGqeOsfFDmiZnk0LapzSjSXi/Or3uzMbbKywXL/VZH0MwjJ+7qC805+WLSvyjZkolzamMh3NGRt/pwmVyFQPNt/oJMQbp38IS4UNx0WuvN6UVk5DBSqdKlFgRRbABh9j6P1z9ZsKSfR6I7gWmg/ywiKTFMALYvBmozrNfWcMAN5gAM214gRtbaff87ndsY3kJ1jM2LsmF4P6kkY+HD7L7ScRsMeE/O40/gT/cDXdWoRmyD2BcU9oAo6wtEdJQRNldt+GLb6fquBzFqtnLaY+W9tXp0GDn+U+fd/T4db0VkWkWyXlRilTntxyipn6KB+cFn3Uc4RL9oVF4XDTHQWEMPafiK4T+Swi7LRpx6nH1XXAW4zOPltbAPm0RCxtHhP+j74cdDoGSKyjSSmyw3M9yh7XxKx1tk5Om5pN1VeWbOTDuBPLASeNlt+kBMdaT+fnE74QhsbQbxT7ekva4mXsiUIJE8cNeyWfZBmF8G5QXCOoUzJ3KXDt59klIkZyS6pN1HeQS9POSujYmYOm1O6AiU7OM1l689knSxuq+GSgSUY1vzuR0jL8jt1tm0uUy03Qy5+DDgrvqGDVgR8xGv/wIVCOTo3i3/3Ewt177VSp8e1oQXgzYu7aFnTfXJtBvLZGWIfVl0KficW3Dq2zIs2X/jdaIviinfncce7kSShHNbUT5RBsj+HsNHc66L4gvISri1eF57QWuzOLJxYpSIuqpmUAt3svZwQdvY27OM2e+ixZ69kaSDFEXTVn5FHAhaqfZFLZ3+viQ6L6Efowy+AQdRxrYvQ/waoErUwk7APE0QnHdSRJZH8/VK7ZFYgC6w85MZubZVPLWZwcK0RiGWTfSIi5RIytwvY+xAtHJoTOgEvW+V4flidt+lxJWS40uB+qoez5P4gpdN/UwnZRfB9mJ/iiA88OPsIrTm1CCsYhrqsD3Ekg8TuqQTw/++IrYdm9ZID3aiuuTZTL+i0hevE5h8NStjeSnzlGOUjYkkCBrqKnaQgAmhALjMqMNIV1YI60HsVUiUgmLv2RIvTWJQmTudYJaVxe9dwsrwqKZiF+IYzPsSfd6B5rTHdb8ZV2Zq0lw3Siq7XireZ3Ds1Kcw+h0ZcrZGuPB1fg8p2E4ityrkF6PRvNzKrkQ=
+    properties :
+     x : 3
+     y : -55
+     width : 111
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         // Propose un identifiant client par défaut
+         SAI_IdentifiantClient = 145
+        type : 14
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_Générer
+    identifier : 0x224ed1fd02c1ba9e
+    internal_properties : CAAAAAgAAABVnkVeVeoqlmtH6IWs/xjakzgKjPyyTW2bnS3NVldH27utRqeQQfSjrZhw+Kk+9xDKRUYBnSRCspoucvphgsIxVlH9l5HPc6/J1l8J9cqjI7fcZCIHs5lA7UghX9QxUetFTDO6ozz0UHu8TYVziMY7UZ+v2d3ceCLuDzDyuLMylALs85u8cRj6HpCx7R/GQrwTSRIG2rHEMeczetSiU8pubQd+HHm9xMm4Q7MimXUc2078g7JfOGfQKuokyqBsntstUE3I2KjTzHQ968Bfm51G4BqmhZ5+ukzlwFvkEaCcT7ZJl+8HFB6royNVJnb1UaSH/kJ6zdsmPR8lWIJt6DTpAAdq7JVuGnbUsIA6eDi+G04meoeBZde9nYG5OPsqjXuK3iXLsGoTTrapRpTt0iuy4HEhQ8hxy80VlQpBk3mZvN7wY+C+FzYemr+VLQ4SQc0a4+V/tlGFcUBuxXlVmzfwqFnIi6e9zCzm9Lz08LSd+JFWGJBsfR0feg0QP3KlY7eO2Xz2SK60UckT3I8ReyyS7/1bFnhZUJ+QtQWmbTbDMj0R0Q7I9L7s4nAbYZFx9wmeLa/RREGrFN4KvrglcUFitl2rNxr1c+Jh9CLcRnsuaDWg1plgvAB2yvmn2ZqLrE3aMc71efBKgJjX/u0QZ7UvepECMkayUETYg9BytEwwKe3YU/AuYBk2ybiwVOdP7n1BgkyFGYYpl1WEuz724SlL5KCOCjDY2tOGISEhvHQtlBtTXlXzxRt9fG0QC66omFkvAtakXEJs5asKs9liDEQseayzlSCMxil1zvxEC4yXMOFEkONtMtxVys5YcGY7u1alNxIO84ZBDEHPpi99A6JV2PtTQQdmcBWwjAayfIbCKbDeP1Sf+VO3Z7qK7LKJIEfM3/7tbxWAuAgxl937hFgdPla5LvYD7UyYsEk7Thb7JbqBG0+SqAa6lciMZJ0aCtaLF9MH5BSEv1gs/KcSthj7o3zoNgZlAiOJ8gqQBQONtCU9BpXWOlzd
+    properties :
+     x : 445
+     y : 197
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         sIdentifiant est une chaîne
+         sCléActivation est une chaine
+         
+         // La clé d'activation est calculée à partir du numéro de série (ou clé initiale) fourni par le poste client.
+         sCléActivation = CléCalculeCléActivation(SAI_NuméroSérie)
+         VersPressePapier(sCléActivation)
+         
+         // L'identifiant utilisé pour générer le numéro de série (ou clé initiale) peut être récupéré par la fonction CléRécupèreIdentifiant
+         sIdentifiant = CléRécupèreIdentifiant(SAI_NuméroSérie)
+         Info(ChaîneConstruit("Clé d'activation générée pour le client %1 : %2",sIdentifiant,sCléActivation),"Pour le confort, dans cet exemple, la clé d'activation a été copiée dans le presse-papier")
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_Explication1
+    identifier : 0x224ed7ee05fbedbf
+    internal_properties : CAAAAAgAAADki151ADB9+I2DHZ4uM7bKjiC2UYvG+EOv2DPFzLXBoWxupunbT8hx2vxSsu0/fCNG0oZu6vK8ggxfe8pRhrNKjuxzg6bCiIij85YbBz1qY/gS3q8aLQraQWsE3VL8FbQ0oaT4e6rf9iWf0YgVxOqYCnAx8d2+ogcHzHD7avbuHRwP6v2PEXmiL4cep0lsSxELQ+M3/PDDUWnhvvvRvkDJel+dTx5D6O0HQb8O1MZq5MTHzgIu3gc1VCdj0isGD2ETSoBmL9RJt9fx4m4mjCFw+OJGUUf8tkAYEdGaUW7mYI0OMoEtMiEg2QxtxviteoJeaS3xXYVwq0RuPIWpTpWe2tRiCPWGzD7biYSEKo5hyugayg5QGMyV1FkMZjGXhylaOhFPeE8Pf2/5mIwXdkCeVoxB9cZisHiucLwMVYezYUtI4dQSVu0j5lGbaFvLjWuMULQQDj2vRw+XDoePIQcPhqPFhO1hgtjWi3Pl6Y8yWuNFt4y7gAJOH+1gNvTvH46Hc6wcFQetFhc9VTOw3jfOVsnBX3/hwov6L9OQAFv1b66XhiJefBXWkhy1Cz8BkxZknJ4WLls8rsCPbWXReP5Fe7l/uctxURpvLh/itID4WV4cMnTRGHrUbHnRebZ6FBzjvS/Rg6j2cnjgJshnTUNikVU=
+    properties :
+     x : 63
+     y : 191
+     width : 361
+     height : 37
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : LIB_CôtéFournisseur
+    identifier : 0x224ed874064ff8c7
+    internal_properties : CAAAAAgAAABTZ7JwjTJMJq+S3ypNJfGYbKn0w0uSMMioKWv6gn/dJU54tC4acpEQrrHTjYpPj9hHwWHXUWhEZFzZb1Th9KKIsa0077mdMGjBXgq1bLGIazyOlx+etFU2KQPapo5ZEAtWp/n7w6BT/figxJLuIT13n7npuX55dvxhkJfb8tNxmGIcgcwx2jRJbvCJWfExV4dNEBJ+/qljzzmQj4taFnBWmUSQw3bMc0Bd+pXY8wrKeYwcBgSMsZ8TZTKHAVl3j6zUwhSGbIaZZv5aUnOv/fNYwGiiQendi2OkNYfvZxUIECB4+LEZy37E8KHFL3G1ofAVBIC7hntOoZL0JpXj/p4BtMFI29h1n/R/Hz3JWoavnQXtnXpXptGa83TB9BwWOPgAnOPqmKCndKYQ8biDJVb0xlBY9NzazlfZPH0hoyGpJ+P/pBUDt7fffbqXYo6EtG0gGdy1MbB7a5Pu+FTrXXnSXI6zQmUv4LzqlNXaMHNOXlXohkYaJeClsEfuzm1DBnkvI4RNDjs8cMNTZfQSRq1M+J1LfW3VmyP15FfgiMfdHRR/1LmlozoXGXiv9A==
+    properties :
+     x : 6
+     y : 165
+     width : 576
+     height : 77
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x22affd5353b701f2
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABSlfoQ6pgsAUPxaXqVirNucaANUh+WQ0mIYUg4IFu5hQI16Vx+QPTcQZkiItAZywE6f/HbJY1puUVTHRDo3Rhw+eMXPVeO50uYkHjAsg4Un7ZncqC0ZANoqNYvVnHmQdI=
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACXiHbz5sxAgg5oBw263mrRnl5QmeWZ2tcO8dL8nvaYYNJAxuxYRbm37sT8zEv+32HGTo1rg0gLMk+wPSg2esA=
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      fonction FEN_Demande_CléActivation()
+      
+      MaFenêtre..ValeurRenvoyée = Faux
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenDemandeMDP
+resources :
+ string_res :
+  identifier : 0x10fae23b0271f194
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
